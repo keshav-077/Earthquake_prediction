@@ -72,7 +72,7 @@ For k = 3 : Accuracy = 0.8011112421148958
 <p>This chart compares the test accuracy of all three models. It helps in identifying the most reliable regression method for earthquake data:</p>
 
 <!-- Replace with your actual image path or name -->
-<img src="accuracy_comparison.png" alt="Accuracy Comparison Chart" style="max-width: 100%; border: 1px solid #ccc; padding: 6px; background: #fff;">
+<img src="assessts/earthquake.png" alt="Accuracy Comparison Chart" style="max-width: 100%; border: 1px solid #ccc; padding: 6px; background: #fff;">
 
   <h2>✅ Conclusion</h2>
   <ul>
@@ -99,8 +99,8 @@ For k = 3 : Accuracy = 0.8011112421148958
 
   <h2>📬 Contact</h2>
   <p>
-    For queries, feedback, or collaboration: <a href="mailto:kesavardhan775@gmail.com">your.email@example.com</a><br>
-    GitHub: <a href="https://github.com/keshav-077">https://github.com/your-profile</a>
+    For queries, feedback, or collaboration: <a href="mailto:kesavardhan775@gmail.com">kesavardhan775@gmail.com</a><br>
+    GitHub: <a href="https://github.com/keshav-077">keshav-077</a>
   </p>
 
 </body>
