@@ -67,15 +67,12 @@ For k = 3 : Accuracy = 0.8011112421148958
 
   </pre>
 
-  <h2>📈 Visualization</h2>
-  <p>Two graphs are plotted:</p>
-  <ul>
-    <li><strong>Accuracy vs. k</strong> — to evaluate the best neighbor value</li>
-    <li><strong>Execution Time vs. k</strong> — to observe computational efficiency</li>
-  </ul>
-  <p>
-    These insights help determine the ideal <code>k</code> for balancing accuracy and speed.
-  </p>
+ 
+  <h2>📉 Accuracy Comparison Across Models</h2>
+<p>This chart compares the test accuracy of all three models. It helps in identifying the most reliable regression method for earthquake data:</p>
+
+<!-- Replace with your actual image path or name -->
+<img src="accuracy_comparison.png" alt="Accuracy Comparison Chart" style="max-width: 100%; border: 1px solid #ccc; padding: 6px; background: #fff;">
 
   <h2>✅ Conclusion</h2>
   <ul>
