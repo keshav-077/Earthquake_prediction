@@ -1,6 +1,3 @@
-# Earthquake_prediction
-
-The Earthquake Magnitude Prediction project focuses on predicting earthquake magnitudes using regression models while visualizing geographical earthquake distributions through interactive maps. The dataset comprises historical earthquake records with features such as latitude, longitude, date, time, and magnitude, alongside additional characteristics. Data preprocessing involved creating a unified timestamp column, normalizing features, encoding categorical variables, and splitting the dataset for training and testing. The models employed include Ridge Regression for linear predictions with regularization, Decision Tree Regressor for capturing non-linear patterns, and K-Nearest Neighbors (KNN) Regressor for distance-based predictions. Metrics such as accuracy, mean absolute error, mean squared error, and execution time were evaluated for performance comparison. Visualizations include scatter plots for actual vs. predicted values, bar charts for model performance, and an interactive map using `folium` to display earthquake locations with clustering. The project utilized libraries like `numpy`, `pandas`, `sklearn`, `matplotlib`, and `folium`. Future work involves integrating additional features, testing advanced models like Random Forest or XGBoost, and automating real-time earthquake data integration to enhance prediction accuracy and insights.
 
 <!DOCTYPE html>
 <html lang="en">
@@ -60,11 +57,14 @@ The Earthquake Magnitude Prediction project focuses on predicting earthquake mag
 
   <h3>📊 Accuracy vs k (KNN)</h3>
   <pre>
-  # Sample output
-  For k = 2 : Accuracy = 0.80
-  For k = 4 : Accuracy = 0.77
-  For k = 6 : Accuracy = 0.78
-  ...
+For k = 6 : Accuracy = 0.7889908031677613
+For k = 7 : Accuracy = 0.7839443025845729
+For k = 10 : Accuracy = 0.7690226861643044
+For k = 8 : Accuracy = 0.7792516079528771
+For k = 4 : Accuracy = 0.7986960127931608
+For k = 5 : Accuracy = 0.7939315396816573
+For k = 3 : Accuracy = 0.8011112421148958
+
   </pre>
 
   <h2>📈 Visualization</h2>
