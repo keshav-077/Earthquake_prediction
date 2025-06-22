@@ -99,8 +99,8 @@ For k = 3 : Accuracy = 0.8011112421148958
 
   <h2>📬 Contact</h2>
   <p>
-    For queries, feedback, or collaboration: <a href="mailto:your.email@example.com">your.email@example.com</a><br>
-    GitHub: <a href="https://github.com/your-profile">https://github.com/your-profile</a>
+    For queries, feedback, or collaboration: <a href="mailto:kesavardhan775@gmail.com">your.email@example.com</a><br>
+    GitHub: <a href="https://github.com/keshav-077">https://github.com/your-profile</a>
   </p>
 
 </body>
